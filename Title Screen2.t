@@ -1,4 +1,3 @@
-procedure Title
 title := "Poison Penny"
 programmer := ""
 
@@ -19,4 +18,3 @@ loop
         Window.Close(win1)
     end if
 end loop
-end Title
